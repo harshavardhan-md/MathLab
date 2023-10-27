@@ -1,0 +1,129 @@
+*{
+    --text: hsl(195, 69%, 10%);
+    --background: hsl(192, 16%, 94%);
+    --primary: hsl(196, 85%, 36%);
+    --secondary: hsl(196, 96%, 81%);
+    --accent: hsl(257, 30%, 45%);
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: italic;
+}
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background: var(--background);
+}
+nav {
+    background: var(--secondary);
+    padding: 0.5rem;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: var(--text);
+}
+nav .material-symbols-outlined{
+    font-size: 2rem;
+}
+#freepik_stories-dark-analytics{
+    width: 100vw;
+    height: 38vh;
+}
+.slogan{
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 700;
+}
+.use{
+    margin-top: .5rem;
+    margin-bottom: 0;
+    text-align: left;
+    font-size: 2rem;
+    font-weight: 700;
+}
+.stream h2{
+    text-align: left;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.stream{
+    display: flex;
+    height: 40vh;
+    padding: .6rem;
+    background: var(--secondary);
+    color: var(--text);
+    flex-direction: column;
+}
+.stream button{
+    color: white;
+    font-style: italic;
+    font-weight: 700;
+    height: 3rem;
+    width: 23rem;
+    margin: .4rem;
+    border: none;
+    border-radius: .5rem;
+    font-size: 25px;
+    text-align: center;
+    background: var(--primary);
+}
+.stream .button{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: space-between;
+    color: var(--text);
+    padding: .8rem;
+    font-style: italic;
+}
+.info .card{
+    display: flex;
+    flex-direction: row;
+    padding: .5rem;
+    justify-content: space-around;
+    background: var(--background);
+}
+.info .card img{
+    height: 10vh;
+    width: 10vh;
+}
+.info .btn{
+    background: var(--primary);
+    border: none;
+    font-weight: 700;
+}
+.info .card-title{
+    font-size: 2rem;
+    font-weight: bold;
+}
+footer {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: .4rem;
+    background: var(--secondary);
+    color: var(--text);
+}
+footer h5{
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+footer span{
+    display: inline;
+    font-weight: bolder;
+}
+footer span a{
+    color: var(--accent);
+    text-decoration: none;
+}

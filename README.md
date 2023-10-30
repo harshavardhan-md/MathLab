@@ -1,5 +1,6 @@
 # MathLab
 This project helps Engineering students understand the core mathematical concepts using Python programming
+Note: The website is to be made responsive for both mobile and desktops, but we are following mobile first approach
 1.	Interface for the respective Streams:
 2.	Contains the options of choosing the required program from the list of all programs from Semester 1 to Semester 3
 3.	Each semester is a drop-down list that can be chosen to start learning 

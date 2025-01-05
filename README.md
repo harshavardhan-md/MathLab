@@ -10,7 +10,7 @@ An interactive platform helping Engineering students master mathematical concept
 
 [Features](#features) • [Getting Started](#getting-started) • [Roadmap](#roadmap) • [Technology Stack](#technology-stack) • [Contributing](#contributing)
 
-![MathLab Demo](https://via.placeholder.com/600x300)
+![MathLab Demo](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/MathLab/HomeScreen.png?raw=true)
 
 </div>
 

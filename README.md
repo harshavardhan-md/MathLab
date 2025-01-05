@@ -53,14 +53,14 @@ An interactive platform helping Engineering students master mathematical concept
 ## 🗺️ Roadmap
 
 ### Phase 1: Core Features
-- [x] Stream-specific content organization
-- [x] Semester-wise program categorization
+- [ ] Stream-specific content organization
+- [ ] Semester-wise program categorization
 - [x] Basic program interfaces
-- [x] Python code integration
+- [ ] Python code integration
 - [x] Mobile-responsive design
 
 ### Phase 2: Enhanced Features
-- [*] User progress tracking
+- [ ] User progress tracking
 - [ ] PWA implementation
 - [ ] Backend integration
 - [ ] Authentication system

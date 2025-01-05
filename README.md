@@ -60,7 +60,7 @@ An interactive platform helping Engineering students master mathematical concept
 - [x] Mobile-responsive design
 
 ### Phase 2: Enhanced Features
-- [ ] User progress tracking
+- [*] User progress tracking
 - [ ] PWA implementation
 - [ ] Backend integration
 - [ ] Authentication system
@@ -96,10 +96,6 @@ We welcome contributions! Here's how you can help:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 🙏 Acknowledgments
 

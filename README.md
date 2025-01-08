@@ -8,7 +8,7 @@
 
 An interactive platform helping Engineering students master mathematical concepts through Python programming.
 
-[Live Demo](https://harshavardhan-md.github.io/AlgoViz/) • [Features](#features) • [Getting Started](#getting-started) • [Roadmap](#roadmap) • [Technology Stack](#technology-stack) • [Contributing](#contributing)
+[Live Demo](https://harshavardhan-md.github.io/MathLab/) • [Features](#features) • [Getting Started](#getting-started) • [Roadmap](#roadmap) • [Technology Stack](#technology-stack) • [Contributing](#contributing)
 
 ![MathLab Demo](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/MathLab/HomeScreen.png?raw=true)
 

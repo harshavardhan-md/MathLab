@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# 🔢 MathLab
+# 🔢 MathLab 🔢
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)

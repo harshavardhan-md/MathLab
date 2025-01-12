@@ -58,6 +58,7 @@ An interactive platform helping Engineering students master mathematical concept
 - [x] Basic program interfaces
 - [ ] Python code integration
 - [x] Mobile-responsive design
+- [ ] Desktop-responsive design
 
 ### Phase 2: Enhanced Features
 - [ ] User progress tracking
